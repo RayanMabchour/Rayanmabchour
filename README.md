@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rayan Mabchour 👋
 
-<!--
-**RayanMabchour/Rayanmabchour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student in China, focused on backend development, cloud security, and application security.
 
-Here are some ideas to get you started:
+## Current Focus
+- Python and Java
+- Linux and networking
+- Backend development
+- Cybersecurity fundamentals
+- Cloud and DevOps basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build strong software engineering skills
+- Complete internships during university
+- Become a Backend / Cloud / Security Engineer
+
+## Projects
+Coming soon...
+
+## Languages
+- Arabic
+- English
+- Mandarin Chinese
