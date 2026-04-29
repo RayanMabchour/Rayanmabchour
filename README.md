@@ -1,4 +1,4 @@
-# Hi, I'm Rayan Mabchour 👋
+# Hi, I'm Rayane Mabchour 👋
 
 I'm a Computer Science student in China, focused on backend development, cloud security, and application security.
 
